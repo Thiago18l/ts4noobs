@@ -2,8 +2,6 @@
 
 Como já abordamos, o TypeScript ele nada mais é do que um superconjunto de JavaScript. Para compilar código TypeScript precisaremos instalar o NodeJS e suas depedências:
 
-<img src="https://nodejs.org/static/images/logo.svg" alt="Vs code" width="120">
-
 
 <a href="https://nodejs.org/en/download/"> Clique aqui para fazer o Download</a>
 
