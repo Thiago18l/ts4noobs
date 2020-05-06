@@ -18,3 +18,8 @@
 
 1. [Boas Vindas](/1-Introducao/1-Boas-vindas.md)
 2. [Comunicação](/1-Introducao/2-Comunicação.md)
+
+## Configurações de Ambiente
+
+1. [Editores de textos e plugins](/2-Ambiente/1-Editores-e-plugins.md)
+2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
