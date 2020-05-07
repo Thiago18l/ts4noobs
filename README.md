@@ -28,5 +28,5 @@
 
 ## Modulo Básico
 
-1.[tsconfig](/3-Basico/1-Tsconfig.md)
-2.[Sintaxe Básica](/3-Basico/2-Sintaxe-Basica.d)
+1.[tsconfig](/3-Basico/1-Tsconfig.md)</br>
+2.[Sintaxe Básica](/3-Basico/2-Sintaxe-Basica.md)
