@@ -23,3 +23,4 @@
 
 1. [Editores de textos e plugins](/2-Ambiente/1-Editores-e-plugins.md)
 2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
+3. [Ambiente Linux](/2-Ambiente/3-Ambiente-Linux.md)
