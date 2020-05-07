@@ -1,4 +1,4 @@
-# 3.1 Ambiente de Desenvolvimento no Linux
+# 2.3 Ambiente de Desenvolvimento no Linux
 
 Primeiro passo é instalar o Node.JS, para instalar o Node.JS no Debian, Ubuntu, Linux Mint e derivados, vamos precisar do Terminal, você pode abri-lo manualmente ou se preferir pode usar o atalho Ctrl + Alt + T e colar os comandos a seguir. Lembre-se que no caso do Debian o sudo não vem habilitado por padrão.
 
