@@ -25,3 +25,8 @@
 2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
 3. [Ambiente Linux](/2-Ambiente/3-Ambiente-Linux.md)
 4. [Dicas gerais](/2-Ambiente/4-Dicas-Gerais.md)
+
+## Modulo Básico
+
+1.[tsconfig](/3-Basico/1-Tsconfig.md)
+2.[Sintaxe Básica](/3-Basico/2-Sintaxe-Basica.d)
