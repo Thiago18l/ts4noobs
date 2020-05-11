@@ -13,10 +13,7 @@ Este comando irá gerar um arquivo tsconfig.json com opções de configuração.
     "outDir": "./dist",                      
     "noImplicitAny": false,                   
     "esModuleInterop": true,                  
-    "forceConsistentCasingInFileNames": true,  
-    "exclude": [
-      "node_modules"
-    ]
+    "forceConsistentCasingInFileNames": true,
   }
 }
 ```
