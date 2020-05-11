@@ -19,4 +19,4 @@ Este comando irá gerar um arquivo tsconfig.json com opções de configuração.
 ```
 <p align="center"><i>Arquivo encontrado em: Exemplos/tsconfig.json</i><p>
 
-Com o tsconfig.json colocado na raíz do seu projet, você vai poder usar o comando tsc para compilar seu código.
+Com o tsconfig.json colocado na raíz do seu projeto, você vai poder usar o comando tsc para compilar seu código.
