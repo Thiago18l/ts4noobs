@@ -20,3 +20,8 @@ Este comando irá gerar um arquivo tsconfig.json com opções de configuração.
 <p align="center"><i>Arquivo encontrado em: Exemplos/tsconfig.json</i><p>
 
 Com o tsconfig.json colocado na raíz do seu projeto, você vai poder usar o comando tsc para compilar seu código.
+
+Após executar o comando tsc no seu arquivo TS, você pode executar o arquivo JS que foi criado usando o node.
+```sh
+node exemplo.js
+```
