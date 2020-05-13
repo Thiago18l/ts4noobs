@@ -30,7 +30,7 @@ node -v
 
 Para instalar o TypeScript globalmente em sua máquina use o seguinte comando:
 ```
-sudo npm install -g typescript
+sudo npm install -g typescript ts-node
 ```
 após a instalação ser concluida você pode verificar qual versão do TypeScript foi instalada:
 ```
