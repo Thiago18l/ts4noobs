@@ -12,7 +12,7 @@ Selecione a Versão LTS (Long term Support) e baixe a versão com base no seu si
 Após a instalação do NodeJS, abriremos o prompt de comando, no caso recomendamos utilizar o PowerShell e para instalar globalmente o TypeScript para seus estudos usaremos o npm (Node Packger Manager) com o seguinte script:
 
 ```
-npm install -g typescript
+npm install -g typescript ts-node
 ```
 <hr>
 
