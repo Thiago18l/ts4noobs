@@ -25,3 +25,14 @@ Após executar o comando tsc no seu arquivo TS, você pode executar o arquivo JS
 ```sh
 node exemplo.js
 ```
+
+### Usando o ts-node
+
+O ts-node nada mais é que o proprio node mais o typescript compiler, além disso ele carrega automaticamente as configurações do nosso arquivo tsconfig.json.
+
+então a partir de agora vamos executar não mais o comando tsc, mas sim o comando ts-node para executarmos nosso código.
+```
+ts-node exemplo.ts
+```
+
+Como podemos observar iremos usar o ts-node em vez do `node exemplo.js`.
