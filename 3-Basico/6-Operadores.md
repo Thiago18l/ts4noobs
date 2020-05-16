@@ -22,10 +22,7 @@ Os principais operadores do TypeScript podem ser classificados como:
 
 ## 6.2 Operadores aritméticos
 
-<h1 align="center">
-  <img src="https://i.imgur.com/p3bB7NO.png
-" alt="Tipos" width="450">
-</h1>
+![Preview](https://i.imgur.com/p3bB7NO.png)
 
 <p align="center">
 <i>Arquivo encontrado em: Exemplos/6.2-operadores.ts</i>
@@ -44,11 +41,8 @@ Como aqui iremos falar de lógica segue um breve exemplo sobre os símbolos que 
 3. Operador `Negação` representado na computação por `!` ou na lógica binária por `¬`.
 
 Abaixo uma tabela com exemplos:
-<h1 align="center">
-  <img src="
-https://i.imgur.com/67Ik6KE.png
-" alt="Tipos" width="450">
-</h1>
+![Preview](https://i.imgur.com/67Ik6KE.png)
+
 <p align="center">
 <i>Arquivo encontrado em: Exemplos/6.3-operadores.ts</i>
 </p>
@@ -56,11 +50,9 @@ https://i.imgur.com/67Ik6KE.png
 ## 6.4 Operadores Relacionais
 
 Operadores relacionais testam ou definem o tipo de relacionamento entre duas entidades. Operadores relacionais retornam um valor booleano, isto é, verdadeiro / falso, veja a tabela abaixo:
-<h1 align="center">
-  <img src="
-https://i.imgur.com/tfZfWkj.png
-" alt="Tipos" width="450">
-</h1>
+
+![Preview](https://i.imgur.com/tfZfWkj.png)
+
 <p align="center">
 <i>Arquivo encontrado em: Exemplos/6.4-operadores.ts</i>
 </p>
@@ -73,12 +65,8 @@ A lógica binária, ou bitwise operation é a base de todo o cálculo computacio
 
 **Nota** - Considere **A** e **B** como variáveis de entrada e **S** como a saída.
 
-<h1 align="center">
-  <img src="
-https://i.imgur.com/EcKKdVl.png
-" alt="Tipos" width="450">
-</h1>
 
+![Preview](https://i.imgur.com/EcKKdVl.png)
 
 <p align="center">
 <i>Arquivo encontrado em: Exemplos/6.5-operadores.ts</i>
