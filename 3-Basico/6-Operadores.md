@@ -41,6 +41,7 @@ Como aqui iremos falar de lógica segue um breve exemplo sobre os símbolos que 
 3. Operador `Negação` representado na computação por `!` ou na lógica binária por `¬`.
 
 Abaixo uma tabela com exemplos:
+
 ![Preview](https://i.imgur.com/67Ik6KE.png)
 
 <p align="center">
