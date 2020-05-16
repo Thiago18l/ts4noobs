@@ -32,7 +32,7 @@ if (true) {
 console.log(PI) // Erro, PI não está definido.
 ```
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/3-escopo.ts</i>
+<i>Arquivo encontrado em: Exemplos/Escopo/3-escopo.ts</i>
 </p>
 
 O mais indicado é que para as variáveis de seus códigos sempre declarem como `let` ou `const` com base no contexto do bloco.
