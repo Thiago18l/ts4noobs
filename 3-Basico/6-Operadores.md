@@ -25,7 +25,7 @@ Os principais operadores do TypeScript podem ser classificados como:
 ![Preview](https://i.imgur.com/p3bB7NO.png)
 
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/6.2-operadores.ts</i>
+<i>Arquivo encontrado em: Exemplos/Operadores/Aritmeticos.ts</i>
 </p>
 
 ## 6.3 Operadores Lógicos
@@ -45,7 +45,7 @@ Abaixo uma tabela com exemplos:
 ![Preview](https://i.imgur.com/67Ik6KE.png)
 
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/6.3-operadores.ts</i>
+<i>Arquivo encontrado em: Exemplos/Operadores/Lógicos.ts</i>
 </p>
 
 ## 6.4 Operadores Relacionais
@@ -55,7 +55,7 @@ Operadores relacionais testam ou definem o tipo de relacionamento entre duas ent
 ![Preview](https://i.imgur.com/tfZfWkj.png)
 
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/6.4-operadores.ts</i>
+<i>Arquivo encontrado em: Exemplos/Operadores/Relacionais.ts</i>
 </p>
 
 ## 6.5 Operadores bit a bit (Bitwise)
@@ -70,5 +70,5 @@ A lógica binária, ou bitwise operation é a base de todo o cálculo computacio
 ![Preview](https://i.imgur.com/EcKKdVl.png)
 
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/6.5-operadores.ts</i>
+<i>Arquivo encontrado em: Exemplos/Operadores/Bitwise.ts</i>
 </p>

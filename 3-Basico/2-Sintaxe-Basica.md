@@ -57,7 +57,7 @@ let idade: number = 22
 let frase: string = `Oi, meu nome é ${nomeCompleto} e vou completar ${idade + 1} anos esse ano!`
 ```
 <p align="center">
-<i>Arquivo encontrado em: Exemplos/1-sintaxe.ts</i>
+<i>Arquivo encontrado em: Exemplos/Sintaxe/1-sintaxe.ts</i>
 </p>
 
 O TypeScript tentará inferir o máximo possível das informações de tipo para fornecer o tipo
