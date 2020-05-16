@@ -33,3 +33,4 @@
 3. [Declaração de tipo](/3-Basico/3-Declaracoes.md)
 4. [Escopo de váriaveis](/3-Basico/4-Escopo.md)
 5. [Tipos no Typescript](/3-Basico/5-Tipos.md)
+6. [Operadores](/3-Basico/6-Operadores.md)
