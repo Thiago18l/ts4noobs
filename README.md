@@ -34,3 +34,15 @@
 4. [Escopo de váriaveis](/3-Basico/4-Escopo.md)
 5. [Tipos no Typescript](/3-Basico/5-Tipos.md)
 6. [Operadores](/3-Basico/6-Operadores.md)
+
+
+## Como Contribuir
+
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
+4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+5. Abra um Pull Request
