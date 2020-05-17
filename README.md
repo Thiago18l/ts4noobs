@@ -34,6 +34,7 @@
 4. [Escopo de váriaveis](/3-Basico/4-Escopo.md)
 5. [Tipos no Typescript](/3-Basico/5-Tipos.md)
 6. [Operadores](/3-Basico/6-Operadores.md)
+7. [Laços e iterações](/3-Basico/7-Loops.md)
 
 
 ## Como Contribuir
