@@ -15,9 +15,7 @@ Os principais operadores do TypeScript podem ser classificados como:
 - Operadores lógicos
 - Operadores relacionais
 - Operadores bit a bit
-- Operadores de atribuição
 - Operador ternário / condicional
-- Operador String
 - Tipo Operador
 
 ## 6.2 Operadores aritméticos
@@ -72,3 +70,38 @@ A lógica binária, ou bitwise operation é a base de todo o cálculo computacio
 <p align="center">
 <i>Arquivo encontrado em: Exemplos/Operadores/Bitwise.ts</i>
 </p>
+
+# Operadores ternário / condicional
+
+Este operador é usado para representar uma expressão condicional. O operador condicional também é chamado de operador ternário. A sintaxe é a seguinte:
+
+```ts
+Teste ? expr1 : expr2
+```
+
+- **Teste** - refere-se à expressão condicional
+- **expr1** - valor retornado se a condição for verdadeira
+- **expr2** - valor retornado se a condição for falsa
+
+#### Vamos dar uma olhada no seguinte código:
+```ts
+let num: number = 2
+const condition = num > 0 ? "verdade" : "falso"
+console.log(condition) // saída: verdade
+```
+<p align="center">
+<i>Arquivo encontrado em: Exemplos/Operadores/Ternário.ts</i>
+</p>
+
+## Operador typeof
+
+É um operador unário. Este operador retorna o tipo de dados do operando. Veja o exemplo a seguir:
+
+```ts
+let n = 10
+console.log(typeof n) // saída: number
+``` 
+
+com isso finalizamos nosso tópico sobre operadores.
+
+[Próxima Seção](./7-Loops.md)
