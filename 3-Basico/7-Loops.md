@@ -152,4 +152,4 @@ while (k < 5) {
 
 O exemplo acima mostra um laço while utlizando continue que executará quando o valor de `k` for igual a 3. Desta forma, `acumulo` recebe os valores um, 3, 7, e 12.
 
-[Próxima Seção](./8-Arrays_e_Tuplas.md)
+[Próxima Seção](./Ifelse.md)

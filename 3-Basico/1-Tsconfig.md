@@ -36,3 +36,5 @@ ts-node exemplo.ts
 ```
 
 Como podemos observar iremos usar o ts-node em vez do `node exemplo.js`.
+
+[Próxima Seção](./2-Sintaxe-Basica.md)

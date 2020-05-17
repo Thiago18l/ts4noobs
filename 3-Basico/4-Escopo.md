@@ -37,3 +37,4 @@ console.log(PI) // Erro, PI não está definido.
 
 O mais indicado é que para as variáveis de seus códigos sempre declarem como `let` ou `const` com base no contexto do bloco.
 
+[Próxima Seção](./5-Tipos_de_Dados.md)

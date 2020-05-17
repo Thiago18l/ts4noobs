@@ -70,3 +70,5 @@ variavel = '123'; // Error: Não podemos atribuir uma string para número
 Essa inferência de tipo é bem vinda. Se você fizer coisas como as mostradas acima, no restante do seu código você não vai ter certeza de que `variavel` é um número ou uma string.
 Esses problemas aparecem frequentimente em grandes bases de código com vários arquivos.
 <hr>
+
+[Próxima Seção](./3-Declaracoes.md)
