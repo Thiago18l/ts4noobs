@@ -47,3 +47,8 @@ são **extremamente apreciadas**
 3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
 5. Abra um Pull Request
+
+## Autor
+
+- **Thiago Lopes** - _Developer & member of He4rt Developers_ -  [Twitter](https://twitter.com/ThiagoLM18) 
+<p align="center">Made with 💜</p>
