@@ -36,6 +36,9 @@
 6. [Operadores](/3-Basico/6-Operadores.md)
 7. [Laços e iterações](/3-Basico/7-Loops.md)
 
+## Modulo Intermediário
+1. [Estruturas condicionais](/4-Intermediario/1-Estruturas_Condicionais.md)
+
 
 ## Como Contribuir
 
